@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca480b27-aeaf-4cb0-b2ef-9699df3cb573" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go1.13.5.linux-amd64" />
+  <component name="GoDepProject">
+    <integration-enabled>true</integration-enabled>
+    <exec-path>$PROJECT_DIR$/../../bin/dep</exec-path>
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1ZJWY0y36bapbF4E4DstHcy7Rrr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.dep.integrator" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/internal/grpc" />
+      <recent name="$PROJECT_DIR$/internal/gRPC" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Shell Script.proto-gen.sh">
+    <configuration name="go build bitbucket-repository-management-service/cmd/grpc/server" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="bitbucket-repository-management-service" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/cmd/grpc/server/main.go" />
+      <package value="bitbucket-repository-management-service/cmd/grpc/server" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="proto-gen.sh" type="ShConfigurationType" temporary="true">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/build/proto-gen.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/build" />
+      <option name="INTERPRETER_PATH" value="/usr/bin/zsh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Shell Script.proto-gen.sh" />
+        <item itemvalue="Go Build.go build bitbucket-repository-management-service/cmd/grpc/server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="59" width="800" height="675" key="#Dep" timestamp="1584557737135">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="59" width="800" height="675" key="#Dep/0.27.1366.741@0.27.1366.741" timestamp="1584557737135" />
+    <state x="172" y="32" key="SettingsEditor" timestamp="1584557756144">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="172" y="32" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1584557756144" />
+    <state x="321" y="112" width="724" height="570" key="find.popup" timestamp="1584558548620">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="321" y="112" width="724" height="570" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1584558548620" />
+  </component>
+</project>
